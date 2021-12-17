@@ -51,7 +51,8 @@ REST - http://shop.bugred.ru/api/items/get/
 Тип - select; 
 id = 38.
 Ожидаемый результат - в теле ответа отображается информация о товаре из БД сайта http://users.bugred.ru в json формате.
+````
 ***
->### Как я проводил тестирование по данным техническим заданиям: https://romantik009.testrail.io/index.php?/projects/overview/1<
+### Как я проводил тестирование по данным техническим заданиям: https://romantik009.testrail.io/index.php?/projects/overview/1
 ***
- 
+ ```
